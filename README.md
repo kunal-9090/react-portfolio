@@ -1,12 +1,47 @@
-# React + Vite
+# 💼 React Portfolio - Animated Developer Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio built with **React.js**! This animated portfolio highlights my projects, skills, and professional background in an interactive and visually engaging format.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo
 
-## Expanding the ESLint configuration
+🌐 [Live Site](https://kunalpattanaikportfolio.netlify.app/)  
+📂 [GitHub Repo](https://github.com/kunal-0909/react-portfolio)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- ⚛️ Built with React.js (functional components & hooks)
+- 🎨 Modern design with smooth animations
+- 💡 Responsive layout for desktop, tablet, and mobile
+- 📂 Projects section with live links and GitHub repos
+- 📞 Contact form integration (email/Netlify Forms etc.)
+- 🌙 Dark/light theme ready (optional)
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, CSS3, JavaScript
+- **Animations:** Framer Motion / GSAP (based on your stack)
+- **Deployment:** Vercel / Netlify / GitHub Pages
+- **Version Control:** Git & GitHub
+
+---
+
+## 📁 Folder Structure
+
+```bash
+react-portfolio/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+├── .gitignore
+├── package.json
+└── README.md
